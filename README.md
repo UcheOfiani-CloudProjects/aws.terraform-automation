@@ -14,7 +14,7 @@ This project automates AWS infrastructure using Terraform. It creates:
 - GitHub for version control
 
 ## Setup & Deployment
-### 1Install Terraform
+### Install Terraform
 Download Terraform from [Terraform Official Website](https://developer.hashicorp.com/terraform/downloads).
 
 ### Clone the Repository
